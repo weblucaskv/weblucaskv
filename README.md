@@ -1,4 +1,4 @@
-### - Faala Dev, Me chamo Lucas bem-vindo ao meu Perfil!
+# Faala Dev, Me chamo Lucas bem-vindo ao meu Perfil!
 ## Desenvolvedor Web Frontend
 
 Bem-vindo ao meu perfil do GitHub! Sou um apaixonado desenvolvedor web frontend com habilidades em criar experiências de usuário intuitivas e atraentes. Meu foco principal é trabalhar com tecnologias modernas para criar interfaces web responsivas e dinâmicas.
@@ -38,4 +38,3 @@ Bem-vindo ao meu perfil do GitHub! Sou um apaixonado desenvolvedor web frontend 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weblucaskv&show_icons=true&theme=merko)
 
 **Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.**
-
